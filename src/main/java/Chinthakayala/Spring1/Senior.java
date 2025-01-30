@@ -8,7 +8,7 @@ public class Senior {
     @Bean
     public String run()
     {
-        return "Done";
+        return " Succesfully Done";
     }
 
 }
